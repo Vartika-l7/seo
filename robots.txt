@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Vartika-l7.github.io/seo/sitemap.xml
